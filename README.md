@@ -24,9 +24,6 @@ I am a junior Data Scientist from Uzbekistan.
     <a href="[your-linkedin-URL](https://www.linkedin.com/in/dilnoza-kholisova-751966242/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="t.me/D_kholisova">
-      <img src="[[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://play-lh.googleusercontent.com/pgiel6OzR01do2sPxONlteJ5_GAwD6W-JpiF98hdns3XinShKZkziUd1B8sG-8qa)](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US)" alt="Telegram Badge"/>
-    </a>
     <a href="[your-twitter-URL](https://twitter.com/DKholisova)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
