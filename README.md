@@ -25,7 +25,7 @@ I am a junior Data Scientist from Uzbekistan.
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="t.me/D_kholisova">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://play-lh.googleusercontent.com/pgiel6OzR01do2sPxONlteJ5_GAwD6W-JpiF98hdns3XinShKZkziUd1B8sG-8qa)" alt="Telegram Badge"/>
     </a>
     <a href="[your-twitter-URL](https://twitter.com/DKholisova)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
