@@ -39,6 +39,6 @@ I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :seedling: Exploring Machine Learning.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/dilnoza-kholisova-751966242/])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilnoza-kholisova-751966242/)
 
 ---
