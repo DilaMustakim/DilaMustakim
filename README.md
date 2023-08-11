@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+<!-- I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. --!>
 - :telescope: I’m a student of Astrum IT Academy.
 
-- :seedling: Exploring Machine Learning.
+- :seedling: Exploring Data Science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilnoza-kholisova-751966242/)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilnoza-kholisova-751966242/) --!>
 
 ---
   
