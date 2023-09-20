@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 How to reach me: https://t.me/kholisova
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -34,9 +35,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 <!-- I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. --!>
-- :telescope: I’m a student of Astrum IT Academy.
+- :telescope: I’ve graduated Astrum IT Academy and learned Data Science majority.
 
-- :seedling: Exploring Data Science.
+<!--
+- :seedling: Exploring Beckend development.
+--!>
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilnoza-kholisova-751966242/) --!>
 
