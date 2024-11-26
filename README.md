@@ -25,7 +25,8 @@
 
 ### :woman_technologist: About Me :
 <!-- I am a junior Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. --!>
-- :telescope: I’ve graduated Astrum IT Academy and learned Data Science majority.
+- :telescope: I’ve graduated Astrum IT Academy and learned Data Science.
+Currently, I'm studying software engineering at IT Park University.
 
 <!--
 - :seedling: Exploring Beckend development.
